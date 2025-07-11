@@ -2,7 +2,7 @@ databases:
 - name: temporal-db
   databaseName: temporal
   user: temporal
-  plan: basic-256
+  plan: basic_256
   region: oregon
 - name: temporal-db-visibility
   databaseName: visibility
